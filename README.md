@@ -1,2 +1,2 @@
-# auto-project
-自动化工程
+# explorer-project
+探险者工程
