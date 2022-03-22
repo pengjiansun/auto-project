@@ -1,9 +1,10 @@
 pipeline {
     agent any
     stages {
-        stage('build') {
+        stage('Build') {
             steps {
-                bat 'mvn --version'
+                bat 'echo "Hello World"'
+                bat set
             }
         }
     }
