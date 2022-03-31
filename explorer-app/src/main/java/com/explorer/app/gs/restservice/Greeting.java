@@ -1,4 +1,4 @@
-package com.explorer.spring.gs.restservice;
+package com.explorer.app.gs.restservice;
 
 public class Greeting {
     private final long id;

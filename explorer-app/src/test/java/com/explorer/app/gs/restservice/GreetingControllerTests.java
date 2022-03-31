@@ -1,4 +1,4 @@
-package com.explorer.spring.gs.restservice;
+package com.explorer.app.gs.restservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

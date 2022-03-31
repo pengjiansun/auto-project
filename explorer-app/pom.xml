@@ -10,11 +10,12 @@
     </parent>
 
     <groupId>com.explorer</groupId>
-    <artifactId>gs-rest-service</artifactId>
+    <artifactId>explorer-app</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
-    <name>gs-rest-service</name>
+    <name>explorer-app</name>
     <description>Demo project for Spring Boot</description>
+
     <properties>
         <java.version>1.8</java.version>
     </properties>
