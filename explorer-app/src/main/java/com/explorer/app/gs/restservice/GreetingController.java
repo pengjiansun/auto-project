@@ -16,6 +16,8 @@ public class GreetingController {
 
         System.out.println("Hello world!---");
         System.out.println("change repository");
+        System.out.println("change repository");
+
         return new Greeting(counter.incrementAndGet(), String.format(template, name));
     }
 }
