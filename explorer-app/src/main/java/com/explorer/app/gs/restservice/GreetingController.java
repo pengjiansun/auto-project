@@ -15,6 +15,7 @@ public class GreetingController {
     public Greeting greeting(@RequestParam(value = "name", defaultValue = "World") String name) {
 
         System.out.println("Hello world!---");
+        System.out.println("change repository");
         return new Greeting(counter.incrementAndGet(), String.format(template, name));
     }
 }
